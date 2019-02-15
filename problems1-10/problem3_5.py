@@ -1,6 +1,8 @@
 """
-
+Given the root to a Binary Tree, implement serialize(root), which serializes the tree
+into a string, and deserialize(s), which deserializes the string back into the tree
 """
+
 
 class Node:
 	
